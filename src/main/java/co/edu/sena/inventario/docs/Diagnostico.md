@@ -53,6 +53,12 @@ Es el proceso de convertir un objeto en la memoria en un formato plano y secuenc
 ## ¿Qué significa GET?
 Solicita y lee datos de un servidor en formato JSON.
 
+### Cuando Usar
+- Obtener una lista de recursos.
+- Recuperar un recurso especifico.
+- Busqueda o filtro de datos.
+
+
 ## ¿Qué es un commit?
 Es un captura de cambios realizados a un archivo o la creacion de uno nuevo
 
@@ -68,10 +74,7 @@ Es la version estable del proyecto.
 
 
 
-### Cuando Usar
-- Obtener una lista de recursos.
-- Recuperar un recurso especifico.
-- Busqueda o filtro de datos.
+
 
 
 
